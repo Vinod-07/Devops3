@@ -1,15 +1,10 @@
 # Devops3
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
+
+
+
+
+
+
 Program 1 and 2:
 Go to git bash page and download win set up
 Go to github and login – 
